@@ -12,6 +12,7 @@
       transform-origin: center;
       font-size: 32px;
       font-weight: 900;
+    　font-family: sans-serif;
     }
 
     @keyframes bounce {
