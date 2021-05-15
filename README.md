@@ -1,5 +1,5 @@
 # こんにちは
 
-<a href="https://molcar-anime.com/">
-  <img src="assets/puipui.svg" alt="ぷいぷい！" title="ぷいぷい！" />
-</a>
+I love web devs.
+
+...And [リトルウィッチアカデミア](http://littlewitchacademia.jp/) _Little Witch Academia_, one of greatest animation made by my favorite animation studio [TRIGGER](http://www.st-trigger.co.jp/).
