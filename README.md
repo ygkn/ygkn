@@ -2,4 +2,13 @@
 
 I love web devs.
 
-...And [リトルウィッチアカデミア](http://littlewitchacademia.jp/) _Little Witch Academia_, one of greatest animation made by my favorite animation studio [TRIGGER](http://www.st-trigger.co.jp/).
+<details>
+ <summary>Stats</summary>
+  <div align="center">
+    
+  | GitHub Stats | Most Used Languages |
+  | :--: | :--: |
+  | [![ygkn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ygkn)](https://github.com/anuraghazra/github-readme-stats) | [![Most used languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=ygkn)](https://github.com/anuraghazra/github-readme-stats) |
+    
+  </div>
+</details>
