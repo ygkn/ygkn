@@ -2,11 +2,5 @@
 
 I love web devs.
 
-<details>
- <summary>Show Stats</summary>
-  <div align="center">
-
- [![ygkn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ygkn)](https://github.com/anuraghazra/github-readme-stats) <wbr /> [![Most used languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=ygkn)](https://github.com/anuraghazra/github-readme-stats)
-
-  </div>
-</details>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ygkn&show_icons=true&count_private=true" alt="ygkn's GitHub stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygkn&langs_count=8" alt="Most used languages" />
