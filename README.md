@@ -1,4 +1,4 @@
-### こんにちは
+### ![Hi there](./greeding.svg)
 
 I love web devs.
 
