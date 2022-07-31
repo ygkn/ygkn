@@ -1,4 +1,4 @@
-### ![Hi there](./greeding.svg)
+### ![Hi there](./greeting.svg)
 
 I love web devs.
 
