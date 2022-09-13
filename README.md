@@ -1,6 +1,6 @@
 ### ![Hi there](./greeting.svg)
 
-I love web devs.
+I love web devs and [Little Witch Academia "リトルウィッチアカデミア"](http://littlewitchacademia.jp/), [Revue Starlight "少女☆歌劇 レヴュースタァライト"](https://revuestarlight.com/).
 
 <details>
 
